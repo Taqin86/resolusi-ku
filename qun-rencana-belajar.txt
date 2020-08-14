@@ -1,8 +1,12 @@
 RENCANA BELAJAR
 
 - Tonton Youtube WPU
+ * Belajar GitHub
+ 
 - Belajar di BWA
+ * Belajar Desain
  * Belajar MERN
  * Belajar Flutter
 - Fokus Belajar
 - Yang Rajin jangan malas
+- Fundamental
