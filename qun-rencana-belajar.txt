@@ -2,7 +2,7 @@ RENCANA BELAJAR
 
 - Tonton Youtube WPU
  * Belajar GitHub
- 
+ * Belajar JavaScript lanjutan
 - Belajar di BWA
  * Belajar Desain
  * Belajar MERN
