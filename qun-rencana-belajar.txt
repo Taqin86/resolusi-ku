@@ -1,10 +1,14 @@
 RENCANA BELAJAR
 
 - Tonton Youtube WPU
- * Belajar GitHub
- * Belajar JavaScript lanjutan
+ * Belajar GitHub v
+ * Belajar JavaScript lanjutan v
+ * Belajar FlexBox
+ * Belajar SASS
+ * Belajar MongoDB
+ 
 - Belajar di BWA
- * Belajar Desain
+ * Belajar Desain v
  * Belajar MERN
  * Belajar Flutter
 - Fokus Belajar
